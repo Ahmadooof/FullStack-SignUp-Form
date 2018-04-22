@@ -10,6 +10,3 @@ to run this project all you need is:
 run maven build in your IDE to get all libraries you want.
 deploy this project on tomcat apache server.
 download MySql workbench and change the hibernate configration file to proper database name etc..
-
-
-<a href="FullStack-SignUp-Form/blob/master/WebContent/WEB-INF/JSP/home.jsp">RunProject</a>
